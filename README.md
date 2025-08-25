@@ -28,7 +28,7 @@ I found that If I knew the secret I cand edit this token and make the admin true
 I crafted this python script to brute force the secret. After a successful crack, It will modify admin from false to true
 ![Image](images/Pasted%20image%2020250825090849.png)
 
-github jwt cracker tool link
+this file is also in the repo called jwt.py
 after running the script I get a new token of admin priv.
 ![Image](images/Pasted%20image%2020250825090948.png)
 
